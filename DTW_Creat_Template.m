@@ -1,7 +1,6 @@
  % Dynamic Time Warping (DTW)
  % Extructing features of Templates and save them. 
  %
- % veisi@mehr.sharif.edu
  
  clear all;
  close all;
