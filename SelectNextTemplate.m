@@ -1,8 +1,6 @@
 function [Temp_F,Temp_N]=SelectNextTemplate(No)
 
     % Select the next template and return it's name (Temp_N) and feature vectors (Temp_F)
-    %
-    % veisi@mehr.sharif.edu
 
     load Templates_noisy.mat;
     %load Templates.mat;
