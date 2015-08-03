@@ -8,7 +8,7 @@
 
 disp(' ');
 disp('                       ASRA Project               ');
-disp('           by Mamdoouh Al Ramadan, 21-June-2011');
+disp('           by Mamdoouh AlRamadan, 21-June-2011');
 disp( '---------------------------------------------------------');
 Select=input('    >> Record or Open wave [Default=Enter=Open]? (R/O)','s');
 switch Select
