@@ -1,7 +1,5 @@
 function Out=CMS_Normalization(Featurs)
     % Cepstral Mean Subtraction (CMS) of Features
-    %
-    % veisi@mehr.sharif.edu
     
     [N,M]=size(Featurs);
     
