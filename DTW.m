@@ -3,8 +3,6 @@ function [Path_y,Path_x,Distance] = DTW(LocalDistance)
     %    Use dynamic programming to find a min-cost path through matrix LocalDistance.
     %    Return state sequence in Path_y,Path_x
     % Modified version of dp !
-    %
-    % veisi@mehr.sharif.edu
        
     [Row,Col] = size(LocalDistance);
     
